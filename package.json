@@ -13,9 +13,6 @@
     "mocha": "*"
   },
   "main": "lib/node-mac.js",
-  "os": [
-    "darwin"
-  ],
   "dependencies": {
     "plist": "^3.0.1",
     "yargs": "^15.4.0"
